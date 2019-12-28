@@ -18,7 +18,6 @@ import java.util.SortedMap;
 public class LectorDAOImpl implements LectorDAO {
     private SessionFactory sessionFactory = new Configuration().configure().buildSessionFactory();
 
-    @Override
     public String globalSearch(String search) throws SQLException {
         String result="";
         try {
