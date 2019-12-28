@@ -1,0 +1,10 @@
+testTaskJavaJunior\entitis\Lector.class
+testTaskJavaJunior\MyDegree.class
+testTaskJavaJunior\dao\LectorDAO.class
+testTaskJavaJunior\dao\DepartmentDAO.class
+testTaskJavaJunior\services\DBService.class
+testTaskJavaJunior\dao\impl\LectorDAOImpl.class
+testTaskJavaJunior\entitis\Department.class
+testTaskJavaJunior\dao\impl\DepartmentDAOImpl.class
+testTaskJavaJunior\Main.class
+testTaskJavaJunior\HibernateUtil.class
